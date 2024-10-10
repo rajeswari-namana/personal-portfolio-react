@@ -1,4 +1,4 @@
-const Services_Data =[
+const Projects_Data =[
     {
       "userId": 1,
       "id": 1,
@@ -31,4 +31,4 @@ const Services_Data =[
     }
 ]
 
-export default Services_Data;
+export default Projects_Data;
