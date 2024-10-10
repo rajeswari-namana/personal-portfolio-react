@@ -4,9 +4,10 @@ import profile_img from '../../assets/ProfileImg.png';
 
 const About = () => {
     return (
+        <div className='about-container' id='about'>
         <div className='about'>
             <div className="about-title">
-                <h1>About Me</h1>
+                <h1>About</h1>
             </div>
             <div className="about-sections">
                 <div className="about-left">
@@ -33,6 +34,7 @@ const About = () => {
                 <hr/>
                 <div className="about-achievement"><h1>9</h1><p>Years of experience</p></div>
             </div>
+        </div>
         </div>
     )
 }
